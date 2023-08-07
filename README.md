@@ -1,4 +1,4 @@
-![style check](https://github.com/razzor58/http_proxy/actions/workflows/style_check.yaml/badge.svg) ![test](https://github.com/razzor58/http_proxy/actions/workflows/coverage_check.yaml/badge.svg)
+![style check](https://github.com/razzor58/http_proxy/actions/workflows/style_check.yaml/badge.svg) ![test](https://github.com/razzor58/http_proxy/actions/workflows/coverage_check.yaml/badge.svg) ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/razzor58/f13f71ad0ffb0e32726a0d1bdfbfbc82/raw/coverage1.json)
 
 ## HTTP proxy implementation
 Program implement the test challenge described [here](https://github.com/castlabs/python_programming_task)
